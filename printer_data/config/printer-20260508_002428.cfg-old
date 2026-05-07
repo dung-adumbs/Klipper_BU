@@ -418,6 +418,3 @@ initial_angle: 0
 #*# [stepper_z]
 #*# position_endstop = -0.225
 
-
-[include ktc/base/*.cfg]
-[include ktc/optional_rrf_compability/*.cfg]

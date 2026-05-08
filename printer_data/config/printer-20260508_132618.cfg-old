@@ -321,5 +321,3 @@ gcode:
 gcode:
     {% set text = params.TEXT|default("") %}
     { action_respond_info(text) }
-[include ktc/base/*.cfg]
-[include ktc/optional_rrf_compability/*.cfg]
